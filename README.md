@@ -8,7 +8,7 @@ ROCK developed an innovative, collaborative and circular systemic approach for r
 
 See the official website [about](https://rockproject.eu/about) page for more details.
 
-<img src="https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_high.jpg" alt="EU flag" width="250"/>
+![image](https://user-images.githubusercontent.com/10896183/143471705-ee596a25-b0bb-4757-983b-378c4ea8e47d.png)
 
 ## How to quote ROCKME
 
